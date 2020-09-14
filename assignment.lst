@@ -1,0 +1,8 @@
+Below are next assignment:
+1. install docker on ur server.
+2. create a container using docker.
+3. login to that running container.
+4. git pull.
+5. git checkout pratap.
+6. put whatever steps u needed to do for above 3 in file dockersetup.txt.
+7. You need to push your changes to git remote.
